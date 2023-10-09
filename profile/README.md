@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.zblogcn.com" target="_blank"><img src="images/logo.svg" width="260"></a>
+    <a href="https://www.zblogcn.com" target="_blank"><img src="https://raw.githubusercontent.com/zblogcn/.github/main/profile/images/logo.svg" width="260"></a>
 </p>
 
 <p align="center">Z-Blog 和 Z-BlogPHP 是由 Z-Blog 团队开发的博客程序。</p>

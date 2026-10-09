@@ -2,22 +2,24 @@
     <a href="https://www.zblogcn.com" target="_blank"><img src="https://raw.githubusercontent.com/zblogcn/.github/main/profile/images/logo.svg" width="200"></a>
 </p>
 
-<p align="center">Z-Blog 和 Z-BlogPHP 是由 Z-Blog 团队开发的博客程序。</p>
+<p align="center">Z-Blog and Z-BlogPHP are open-source website building programs developed by the Z-Blog team.</p>
 
-## 关于 Z-BlogPHP
+## About Z-BlogPHP
 
-Z-BlogPHP 是由 Z-Blog 社区提供的博客程序，一直致力于给国内用户提供优秀的博客写作体验，是目前国内为数不多的持续提供更新的开源 CMS 系统之一。
+Z-BlogPHP is an open-source website building program provided by the Z-Blog community. It has always been dedicated to giving users in China an excellent experience, and it is one of the few open-source CMS systems in the country that still receive regular updates.
 
-我们的目标是使用户沉浸于写作、记录生活，不需要关注繁琐的设置等，让用户专注于创作。对于用户而言，它简单易用，体积小，速度快，支持数据量大。对开发者而言，它又有着强大的可定制性、丰富的插件接口和精美的主题模板。
+Our goal is to free users from tedious settings. From personal blogs and corporate websites, to knowledge bases, news portals and community forums — whatever website you can think of, and plenty you can't, Z-BlogPHP can build it.
 
-**我们一直在努力把 Z-BlogPHP 打造成高可玩性、乐高积木式的网站程序!**
+For users, it is simple to use, small in size, fast, and able to handle large amounts of data. For developers, it offers powerful customizability, a rich set of plugin interfaces, and beautifully designed theme templates.
 
-[主程序 GitHub 仓库](https://github.com/zblogcn/zblogphp) | [文档](https://docs.zblogcn.com/php/)
+**We are constantly working to make Z-BlogPHP a highly playable, LEGO-brick-style website program!**
 
-## 关于 Z-Blog (ASP)
+[Main program GitHub repository](https://github.com/zblogcn/zblogphp) | [Documentation](https://docs.zblogcn.com/php/)
 
-Z-Blog 是由 RainbowSoft Studio 团队开发的一款小巧而强大的 ASP 博客程序，同时支持 Microsoft Access 和 Microsoft SQL Server 两种数据库。
+## About Z-Blog (ASP)
 
-Z-Blog 有着强大的可定制性、丰富的插件接口和独立的主题模板，方便开发者和用户的定制与优化。
+Z-Blog is a small yet powerful ASP blogging program developed by the RainbowSoft Studio team. It supports both Microsoft Access and Microsoft SQL Server databases.
 
-[主程序 GitHub 仓库](https://github.com/zblogcn/zblogasp) | [文档](https://docs.zblogcn.com/asp/)
+Z-Blog offers powerful customizability, a rich set of plugin interfaces, and independent theme templates, making it easy for developers and users to customize and optimize.
+
+[Main program GitHub repository](https://github.com/zblogcn/zblogasp) | [Documentation](https://docs.zblogcn.com/asp/)
